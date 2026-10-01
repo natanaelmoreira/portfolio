@@ -1,0 +1,6 @@
+event_id,updated_at,order_date,customer_id,channel,amount_cents,status
+o002,2026-09-03,2026-09-01,c002,paid,20000,cancelled
+o004,2026-09-03,2026-09-02,c003,organic,9000,paid
+o005,2026-09-03,2026-09-03,c004,paid,25000,paid
+o006,2026-09-03,2026-09-03,c002,referral,12000,paid
+o004,2026-09-02,2026-09-02,c003,organic,8000,paid
